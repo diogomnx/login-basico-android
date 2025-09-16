@@ -6,6 +6,6 @@ A aplicação consiste em um sistema de controle de acesso com uma tela de login
 
 ## Desenvolvido por
 
-* Nome do Integrante 1
-* Nome do Integrante 2
-* Nome do Integrante 3
+* [Davi Lima](https://github.com/Davi99-10)
+* [Diogo Negreiros](https://github.com/diogomnx)
+* [João Hugo](https://github.com/jhugosc)
