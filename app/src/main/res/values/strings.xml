@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppEx1</string>
+    <string name="name_txt">Name</string>
+    <string name="password_txt">Password</string>
+    <string name="username_txt">User Name:</string>
+    <string name="config_txt">Configuration</string>
+    <string name="exit_txt">Exit</string>
+    <string name="entrar_txt">ENTRAR</string>
+    <string name="sair_txt">SAIR</string>
+    <string name="confirm_txt">Confirm</string>
+    <string name="cancel_txt">Cancel</string>
+</resources>
